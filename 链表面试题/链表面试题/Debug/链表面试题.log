@@ -1,0 +1,20 @@
+﻿生成启动时间为 2019/3/25 20:10:38。
+     1>项目“D:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "链表面试题.c"
+         链表面试题.c
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(9): warning C4013: “malloc”未定义；假设外部返回 int
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(10): error C2374: “node”: 重定义；多次初始化
+                 d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(9) : 参见“node”的声明
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(54): warning C4013: “free”未定义；假设外部返回 int
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(124): warning C4133: “初始化”: 从“Node *”到“ListNode *”的类型不兼容
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(136): warning C4133: “=”: 从“ListNode *”到“Node *”的类型不兼容
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(234): warning C4047: “<=”:“Node *”与“unsigned int”的间接级别不同
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(245): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(348): warning C4133: “初始化”: 从“ListNode *”到“Node *”的类型不兼容
+     1>d:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.c(355): warning C4013: “getlen”未定义；假设外部返回 int
+     1>已完成生成项目“D:\c及c++\数据结构\链表面试题\链表面试题\链表面试题.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.23
